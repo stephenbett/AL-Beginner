@@ -1,14 +1,14 @@
 {
   "id": "8a8a0e16-24bc-485f-bc9c-349d3866e6cd",
   "name": "Bonus",
-  "publisher": "Default publisher",
-  "version": "1.0.0.0",
-  "brief": "",
-  "description": "",
-  "privacyStatement": "",
-  "EULA": "",
-  "help": "",
-  "url": "",
+  "publisher": "BETT",
+  "version": "1.0.0.1",
+  "brief": "hellow",
+  "description": "first program cool",
+  "privacyStatement": "https://my.company.org/privacy",
+  "EULA": "https://my.company.org/eula",
+  "help": "https://my.company.org/privacy",
+  "url": "https://www.precipioservices.com",
   "logo": "",
   "dependencies": [
     {
